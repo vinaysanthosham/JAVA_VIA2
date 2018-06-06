@@ -15,6 +15,8 @@ public class CalculationsTest {
 		//fail("Not yet implemented"); // TODO
 		assertEquals(50, calc.add(25, 25));
 	}
+	
+	// Test case for double value.
 
 	@Test
 	public void testSquare() {
