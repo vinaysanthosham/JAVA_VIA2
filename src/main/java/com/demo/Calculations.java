@@ -6,7 +6,7 @@ public class Calculations {
 		return n1 + n2;
 	}
 	
-	public double square(double d) {
+	public int square(int d) {
 		return d * d;
 	}
 
