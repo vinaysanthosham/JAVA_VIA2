@@ -21,7 +21,7 @@ public class CalculationsTest {
 	@Test
 	public void testSquare() {
 		//fail("Not yet implemented"); // TODO
-		assertEquals(90, calc.square(10.0));
+		assertEquals(100, calc.square(10.0));
 	}
 
 }
